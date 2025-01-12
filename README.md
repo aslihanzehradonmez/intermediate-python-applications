@@ -66,7 +66,7 @@ To run these projects from source, follow these steps:
 ## 🔠 Project Structure
 
 intermediate-python-applications/
-│
+│ 
 ├── file_management_system.py  
 ├── weather_application_api.py  
 ├── book_recommendation_system.py  
