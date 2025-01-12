@@ -64,7 +64,7 @@ To run these projects from source, follow these steps:
     ```
 
 ## 🔠 Project Structure
-
+```
 intermediate-python-applications/  
 │  
 ├── file_management_system.py  
@@ -77,5 +77,5 @@ intermediate-python-applications/
 ├── recipe_suggestion_application.py  
 ├── url_shortener_qr_maker.py  
 ├── timer_application.py
-
+```
 This repository is a great resource for intermediate-level developers looking to expand their skill set through practical examples. Dive in and start coding! 🚀
