@@ -8,9 +8,7 @@ Welcome to the **Intermediate Python Applications** repository! 🎉 This reposi
 
 This repository features a collection of intermediate Python projects designed to enhance your understanding of core programming concepts, algorithms, and data handling. Each project is structured to provide practical experience in Python programming, including the use of APIs, file management, and user interface design.
 
-### 🌟 Application Descriptions
-
-# Application Descriptions
+# 🌟 Application Descriptions
 
 1. **File Management System 📂**  
    A comprehensive tool for managing files and folders. It allows users to organize, rename, move, create, and delete files and directories. Features include a GUI for navigating file structures, action logging, and bulk operations.
