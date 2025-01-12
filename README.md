@@ -67,16 +67,15 @@ To run these projects from source, follow these steps:
 
 intermediate-python-applications/
 │
-├── file_management_system.py
-├── weather_application_api.py
-├── book_recommendation_system.py
-├── question_answer_game_engine.py
-├── notepad_app.py
-├── restaurant_order_management_system.py
-├── english_turkish_dictionary.py
-├── recipe_suggestion_application.py
-├── url_shortener_qr_maker.py
+├── file_management_system.py  
+├── weather_application_api.py  
+├── book_recommendation_system.py  
+├── question_answer_game_engine.py  
+├── notepad_app.py  
+├── restaurant_order_management_system.py  
+├── english_turkish_dictionary.py  
+├── recipe_suggestion_application.py  
+├── url_shortener_qr_maker.py  
 ├── timer_application.py
-
 
 This repository is a great resource for intermediate-level developers looking to expand their skill set through practical examples. Dive in and start coding! 🚀
