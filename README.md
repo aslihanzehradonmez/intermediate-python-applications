@@ -8,37 +8,39 @@ Welcome to the **Intermediate Python Applications** repository! 🎉 This reposi
 
 This repository features a collection of intermediate Python projects designed to enhance your understanding of core programming concepts, algorithms, and data handling. Each project is structured to provide practical experience in Python programming, including the use of APIs, file management, and user interface design.
 
-### 🌟 Featured Projects
+### 🌟 Application Descriptions
 
-1. **File Management System** 📂  
-   A tool to organize, rename, move, and delete files efficiently. It supports bulk operations and file categorization based on extensions.
+# Application Descriptions
 
-2. **Weather Application** ⛅  
-   A weather forecasting app that fetches real-time weather data using an API and displays temperature, humidity, and more for selected locations.
+1. **File Management System 📂**  
+   A comprehensive tool for managing files and folders. It allows users to organize, rename, move, create, and delete files and directories. Features include a GUI for navigating file structures, action logging, and bulk operations.
 
-3. **Book Recommendation System** 📖  
-   Recommends books based on user preferences or genres. It employs a simple recommendation algorithm to enhance the reading experience.
+2. **Weather Application ⛅**  
+   A weather forecasting app that uses geolocation to fetch the user's current position and display weather updates. Data is sourced from public APIs, offering temperature and condition details for a specified location.
 
-4. **Q&A Game Engine** ❓  
-   A question-and-answer game framework where users can create quizzes or play existing ones. Supports multiple-choice and true/false formats.
+3. **Book Recommendation System 📖**  
+   Recommends books by searching the Open Library API. Includes a translation feature for book titles and authors to English for better accessibility. Results are displayed in a user-friendly GUI, limited to the top ten matches.
 
-5. **Notepad App** 📝  
-   A lightweight notepad application for creating, editing, and saving text files. Includes features like word count, search, and text formatting.
+4. **Q&A Game Engine ❓**  
+   A framework for trivia-style quizzes, fetching questions from Open Trivia Database. It supports multiple-choice formats, maintains scores, and includes features for resetting and customizing the number of questions.
 
-6. **Restaurant Order Management System** 🍽️  
-   A basic order management system for restaurants, allowing users to place orders, calculate bills, and track inventory.
+5. **Notepad App 📝**  
+   A versatile text editor for creating and managing text files. Supports saving files in multiple formats (TXT, DOCX, PDF), and includes advanced features like bold/italic text formatting, search/replace functionality, and notifications.
 
-7. **English-Turkish Dictionary** 📚  
-   A bilingual dictionary application for translating words and phrases between English and Turkish, with support for word history and favorites.
+6. **Restaurant Order Management System 🍽️**  
+   Manages restaurant orders and menu items, including adding, updating, and removing menu options. Features include customer order tracking, bill generation with tax and discount calculations, and a clear GUI for streamlined operations.
 
-8. **Recipe Suggestion Application** 🍳  
-   Suggests recipes based on available ingredients. Users can input ingredients they have, and the app will recommend matching recipes.
+7. **English-Turkish Dictionary 📚**  
+   A bilingual dictionary app using Google Translate to translate text between English and Turkish. Features include auto-detection of source language, and a clean interface for input and translation results.
 
-9. **URL Shortener & QR Maker** 🔗  
-   Shortens long URLs and generates QR codes for easy sharing. Supports saving and exporting QR codes in image formats.
+8. **Recipe Suggestion Application 🍳**  
+   Suggests recipes based on provided ingredients by utilizing TheMealDB API. Ingredients are normalized for accurate matching, and users can view detailed recipe instructions and thumbnails.
 
-10. **Timer Application** ⏳  
-    A versatile timer app for countdowns and alarms, featuring customizable notifications and sound alerts.
+9. **URL Shortener & QR Maker 🔗**  
+   Shortens URLs using TinyURL and generates QR codes. Includes options to save QR codes as images, a copy-to-clipboard feature for shortened URLs, and error handling for invalid inputs.
+
+10. **Timer Application ⏳**  
+    An advanced countdown timer with start, pause, and reset functionalities. Features customizable time entry, a log panel for updates, and an alarm upon timer completion. Runs on a responsive threading-based backend.
 
 ### 🔢 Download & Run
 
